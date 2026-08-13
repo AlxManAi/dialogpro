@@ -1,6 +1,6 @@
 <div>
 
-<img src="assets/banner.png" alt="ДиалогПро" width="100%">
+<img src="assets/alxbanner.png" alt="ДиалогПро" width="100%">
 
 # ДиалогПРО 🎯 — ИИ-тренажер сложных переговоров и общения
 
