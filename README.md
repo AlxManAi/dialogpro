@@ -57,17 +57,6 @@
    npm run build
    ```
 
----
-
-## 💡 Промпт для генерации иллюстрации / обложки проекта
-
-Вы можете использовать этот промпт в любой современной нейросети для генерации изображений (Midjourney, DALL-E 3, Imagen), чтобы создать качественную обложку или иконку для репозитория:
-
-> **Промпт (English):**
-> *A sleek, minimalist vector illustration representing professional communication training and artificial intelligence. Two abstract speech bubbles or dialogue silhouettes merging in harmony, with a glowing subtle neural network grid and data nodes inside. Professional corporate color palette of deep navy blue, teal, and soft violet accents. Clean lines, modern flat design, high tech yet empathetic, suitable for a professional SaaS software banner, 16:9 aspect ratio.*
-
-> **Описание (Русский):**
-> *Минималистичная векторная иллюстрация, символизирующая профессиональное обучение общению и искусственный интеллект. Две абстрактные реплики диалога, гармонично переплетающиеся между собой, со светящейся нейросетевой сеткой и узлами данных внутри. Корпоративная цветовая палитра: глубокий синий, бирюзовый и мягкие фиолетовые акценты. Чистые линии, современный плоский дизайн, технологично и дружелюбно.*
 
 ---
 
